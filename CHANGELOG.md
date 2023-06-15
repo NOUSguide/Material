@@ -1,3 +1,7 @@
+## 3.1.9
+
+- Xcode 14 updates
+
 ## 3.1.8
 
 - [pr-1269](https://github.com/CosmicMind/Material/pull/1269): Fixed Xcode 11 crash, where layoutMargins are not available before iOS 13.
